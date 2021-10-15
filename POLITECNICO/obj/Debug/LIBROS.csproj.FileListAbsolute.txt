@@ -1,0 +1,9 @@
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\bin\Debug\POLITECNICO.exe.config
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\bin\Debug\POLITECNICO.exe
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\bin\Debug\POLITECNICO.pdb
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\POLITECNICO.PRESENTACION.FormularioLibro.resources
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\POLITECNICO.PRESENTACION.Libros.resources
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\POLITECNICO.Properties.Resources.resources
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\LIBROS.csproj.GenerateResource.Cache
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\POLITECNICO.exe
+c:\users\ltafu\documents\visual studio 2017\Projects\POLITECNICO\POLITECNICO\obj\Debug\POLITECNICO.pdb
